@@ -67,17 +67,17 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Université Paris-Saclay',
+      institution: 'Université Paris-Saclay \n Tohoku University',
       degree: 'Ph.D. in Physics',
       from: '2020',
       to: '2024',
     },
-    {
-      institution: 'Tohoku University',
-      degree: 'Ph.D. in Physics',
-      from: '2020',
-      to: '2024',
-    },
+    // {
+    //   institution: 'Tohoku University',
+    //   degree: 'Ph.D. in Physics',
+    //   from: '2020',
+    //   to: '2024',
+    // },
     {
       institution: 'Tohoku University',
       degree: 'M.S. in Physics',
